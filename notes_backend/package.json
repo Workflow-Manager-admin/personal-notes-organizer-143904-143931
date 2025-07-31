@@ -17,7 +17,8 @@
         "swagger-ui-express": "^5.0.1",
         "sequelize": "^6.35.1",
         "sqlite3": "^5.1.6",
-        "bcryptjs": "^2.4.3"
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^9.0.2"
     },
     "devDependencies": {
         "eslint": "^9.24.0",
